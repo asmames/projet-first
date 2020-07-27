@@ -1,0 +1,21 @@
+
+.Red{
+    color: red;
+}
+
+.App>div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items: center;
+width: 40%;
+} 
+
+.App{
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+
